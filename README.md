@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b918fdde-73b7-49f8-9494-883d330eb8c3)# COW-Spring-5
+# COW-Spring-5
 COW 5기 서버 - 학습 미션을 위한 저장소
 
 ## 📒 과제 제출 방식
